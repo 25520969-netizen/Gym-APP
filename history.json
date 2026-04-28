@@ -1,0 +1,40 @@
+{
+    "_metadata": {
+        "last_reset_week": "2026-W18"
+    },
+    "FRONT_DELT": {
+        "hits_this_week": 0,
+        "isolation_hits_this_week": 0,
+        "last_trained_timestamp": "2026-04-22T10:01:06.588801"
+    },
+    "TRICEP_LONG": {
+        "hits_this_week": 0,
+        "isolation_hits_this_week": 0,
+        "last_trained_timestamp": "2026-04-22T10:01:06.588801"
+    },
+    "MID_CHEST": {
+        "hits_this_week": 1,
+        "isolation_hits_this_week": 0,
+        "last_trained_timestamp": "2026-04-28T22:14:52.562695"
+    },
+    "TRICEP_LATERAL": {
+        "hits_this_week": 0,
+        "isolation_hits_this_week": 0,
+        "last_trained_timestamp": "2026-04-22T10:01:06.588801"
+    },
+    "BACK_VERTICAL": {
+        "hits_this_week": 1,
+        "isolation_hits_this_week": 0,
+        "last_trained_timestamp": "2026-04-28T22:14:52.562695"
+    },
+    "HAMSTRING_PRIMARY": {
+        "hits_this_week": 1,
+        "isolation_hits_this_week": 0,
+        "last_trained_timestamp": "2026-04-28T22:14:52.562695"
+    },
+    "UPPER_CHEST": {
+        "hits_this_week": 1,
+        "isolation_hits_this_week": 0,
+        "last_trained_timestamp": "2026-04-28T22:14:52.562695"
+    }
+}
